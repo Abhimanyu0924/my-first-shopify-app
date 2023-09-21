@@ -2,7 +2,7 @@
 
 name = "test-app1"
 client_id = "c81a2d0010b357812d99b6f89cf91183"
-application_url = "https://referring-garage-apps-soil.trycloudflare.com"
+application_url = "https://trustee-smoking-ian-genesis.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -11,9 +11,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://referring-garage-apps-soil.trycloudflare.com/auth/callback",
-  "https://referring-garage-apps-soil.trycloudflare.com/auth/shopify/callback",
-  "https://referring-garage-apps-soil.trycloudflare.com/api/auth/callback"
+  "https://trustee-smoking-ian-genesis.trycloudflare.com/auth/callback",
+  "https://trustee-smoking-ian-genesis.trycloudflare.com/auth/shopify/callback",
+  "https://trustee-smoking-ian-genesis.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
